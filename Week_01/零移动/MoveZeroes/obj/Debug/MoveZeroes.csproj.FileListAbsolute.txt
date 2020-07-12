@@ -1,0 +1,6 @@
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_01\零移动\MoveZeroes\bin\Debug\MoveZeroes.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_01\零移动\MoveZeroes\bin\Debug\MoveZeroes.pdb
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_01\零移动\MoveZeroes\obj\Debug\MoveZeroes.csprojAssemblyReference.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_01\零移动\MoveZeroes\obj\Debug\MoveZeroes.csproj.CoreCompileInputs.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_01\零移动\MoveZeroes\obj\Debug\MoveZeroes.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_01\零移动\MoveZeroes\obj\Debug\MoveZeroes.pdb
