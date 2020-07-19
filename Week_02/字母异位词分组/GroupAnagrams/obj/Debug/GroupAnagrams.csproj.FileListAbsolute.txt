@@ -1,0 +1,6 @@
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_02\字母异位词分组\GroupAnagrams\obj\Debug\GroupAnagrams.csprojAssemblyReference.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_02\字母异位词分组\GroupAnagrams\obj\Debug\GroupAnagrams.csproj.CoreCompileInputs.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_02\字母异位词分组\GroupAnagrams\bin\Debug\GroupAnagrams.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_02\字母异位词分组\GroupAnagrams\bin\Debug\GroupAnagrams.pdb
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_02\字母异位词分组\GroupAnagrams\obj\Debug\GroupAnagrams.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_02\字母异位词分组\GroupAnagrams\obj\Debug\GroupAnagrams.pdb
