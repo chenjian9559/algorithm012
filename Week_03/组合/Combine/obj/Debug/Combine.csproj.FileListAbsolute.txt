@@ -1,0 +1,6 @@
+C:\Users\陈建\source\repos\Combine\bin\Debug\Combine.exe
+C:\Users\陈建\source\repos\Combine\bin\Debug\Combine.pdb
+C:\Users\陈建\source\repos\Combine\obj\Debug\Combine.csprojAssemblyReference.cache
+C:\Users\陈建\source\repos\Combine\obj\Debug\Combine.csproj.CoreCompileInputs.cache
+C:\Users\陈建\source\repos\Combine\obj\Debug\Combine.exe
+C:\Users\陈建\source\repos\Combine\obj\Debug\Combine.pdb

@@ -1,0 +1,6 @@
+C:\Users\陈建\source\repos\Permute\bin\Debug\Permute.exe
+C:\Users\陈建\source\repos\Permute\bin\Debug\Permute.pdb
+C:\Users\陈建\source\repos\Permute\obj\Debug\Permute.csprojAssemblyReference.cache
+C:\Users\陈建\source\repos\Permute\obj\Debug\Permute.csproj.CoreCompileInputs.cache
+C:\Users\陈建\source\repos\Permute\obj\Debug\Permute.exe
+C:\Users\陈建\source\repos\Permute\obj\Debug\Permute.pdb
