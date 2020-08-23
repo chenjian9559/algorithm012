@@ -1,0 +1,6 @@
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_07\22. 括号生成\GenerateParenthesis\bin\Debug\GenerateParenthesis.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_07\22. 括号生成\GenerateParenthesis\bin\Debug\GenerateParenthesis.pdb
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_07\22. 括号生成\GenerateParenthesis\obj\Debug\GenerateParenthesis.csprojAssemblyReference.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_07\22. 括号生成\GenerateParenthesis\obj\Debug\GenerateParenthesis.csproj.CoreCompileInputs.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_07\22. 括号生成\GenerateParenthesis\obj\Debug\GenerateParenthesis.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_07\22. 括号生成\GenerateParenthesis\obj\Debug\GenerateParenthesis.pdb
