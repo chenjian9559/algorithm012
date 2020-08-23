@@ -1,0 +1,6 @@
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_04\860. 柠檬水找零\LemonadeChange\bin\Debug\LemonadeChange.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_04\860. 柠檬水找零\LemonadeChange\bin\Debug\LemonadeChange.pdb
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_04\860. 柠檬水找零\LemonadeChange\obj\Debug\LemonadeChange.csprojAssemblyReference.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_04\860. 柠檬水找零\LemonadeChange\obj\Debug\LemonadeChange.csproj.CoreCompileInputs.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_04\860. 柠檬水找零\LemonadeChange\obj\Debug\LemonadeChange.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_04\860. 柠檬水找零\LemonadeChange\obj\Debug\LemonadeChange.pdb
