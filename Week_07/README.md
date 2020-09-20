@@ -391,8 +391,8 @@ class SortedArray {
 -  AVL trees provide faster lookups than Red Black Trees because they are more strictly balanced. 
      - AVL树查询更快，因为是严格平衡树
 -  Red Black Trees provide faster insertion and removal operations than AVL trees as  fewer rotations are done due to relatively relaxed balancing. 
-  - 红黑树插入和删除更快，因为不用频繁进行旋转操作
+     - 红黑树插入和删除更快，因为不用频繁进行旋转操作
 -  AVL trees store balance factors or heights with each node, thus requires storage for  an integer per node whereas Red Black Tree requires only 1 bit of information per  node. 
-  - AVL树每个节点会存储平衡因子或高度，因而每个节点需要存储一个整数， 而红黑树每个节点只用1位。
+     - AVL树每个节点会存储平衡因子或高度，因而每个节点需要存储一个整数， 而红黑树每个节点只用1位。
 -  Red Black Trees are used in most of the language libraries  like map, multimap, multisetin C++ whereas AVL trees are used in databases where  faster retrievals are required.
-  - 红黑树在大多数语言库（例如C ++中的map，multimap，multiset）中使用，而AVL树用在需要更快检索的databases 中使用。
+     - 红黑树在大多数语言库（例如C ++中的map，multimap，multiset）中使用，而AVL树用在需要更快检索的databases 中使用。
