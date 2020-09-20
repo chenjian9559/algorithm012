@@ -1,0 +1,6 @@
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_08\231. 2的幂\IsPowerOfTwo\bin\Debug\IsPowerOfTwo.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_08\231. 2的幂\IsPowerOfTwo\bin\Debug\IsPowerOfTwo.pdb
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_08\231. 2的幂\IsPowerOfTwo\obj\Debug\IsPowerOfTwo.csprojAssemblyReference.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_08\231. 2的幂\IsPowerOfTwo\obj\Debug\IsPowerOfTwo.csproj.CoreCompileInputs.cache
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_08\231. 2的幂\IsPowerOfTwo\obj\Debug\IsPowerOfTwo.exe
+D:\使用存储\MyGeekTimeAlgorithm\algorithm012\Week_08\231. 2的幂\IsPowerOfTwo\obj\Debug\IsPowerOfTwo.pdb
